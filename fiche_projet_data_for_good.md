@@ -129,4 +129,4 @@ L’équipe projet est composée de :
     
 -   Cécile Le Guen, membre de Open Knowledge France et consultante à Datactivist, basée à Paris et spécialisée également sur les questions d’open data et de gouvernance des données.
 
--
+-   D
